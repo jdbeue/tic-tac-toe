@@ -1,2 +1,2 @@
-# tic-tac-toe
-#Trying to make a game of tictactoe with basic GUI, and based on python
+# hello-world
+#y first repository
